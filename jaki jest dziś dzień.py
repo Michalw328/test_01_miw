@@ -1,0 +1,1 @@
+print(" Dziś jest piątek, 21.3.2025 ")
